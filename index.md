@@ -1,33 +1,45 @@
 ---
-title: "Introduction"
+title: "PrivateEyePi"
 keywords: getting started introduction
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: JemRF radio modules are easy to use wireless data transmission modules where all the error checking, encoding, packetisation and CRC done for you. Build prototypes in minutes. Requires no programming and no drivers. Long range communication up to 1 KM within line of sight. Supports point-to-multi-point, multi-point-to-point, multi-point-to-multi-point or point-to-point network topologies. All devices have built-in 128-bit AES encryption for secure over the air transmissions.The devices are configurable through the serial interface or over the air.
+summary: Home Automation and Monitoring Projects for Raspberry Pi.
 ---
 
-## Introduction to RF Networks
+## Welcome to PrivateEyePi
 
-### Star Network
-Any number of nodes transmitting and receiving data from one central hub. Sensor nodes can sleep to
-conserve battery power. No direct communication between the sensor nodes.
+This is a Raspberry Pi projects website aimed at the Raspberry Pi enthusiast wanting to build home security/automation systems and at the same time learn programming and electronics.
 
-{% include image.html file="Slide1.jpg" alt="Star Network"%}
+All software and source code we provide is free of charge can be copied, shared and modified without restriction. There are no charges for the alarm system or any of the projects. The parts you will need are described in the projects and can be sourced on your own or bought from the PrivateEyePi Store.
 
-### Multiple Star Networks
-Start networks can be combined by creating multiple star networks on their own PanId’s. Messages can
-be directed to specific gateways by assigning PanId’s to each sensor.
+## The Internet Of Things (IOT)
+The Internet Of Things has arrived and connecting sensors and controls to The Internet has never been easier. You don't need no be an electronics or software expert or spend a lot of money on proprietary and closed systems to create your own IOT devices and control and monitor them from The Internet.
 
-{% include image.html file="Slide2.jpg" alt="Multiple Star Networks"%}
+Using your Raspberry Pi you can easily build your own sensors and connect them to The Internet.
 
-### Redundant network
-Multiple gateways can be configured on the same PanId to create a redundant network. All radio traffic
-travels to all gateways so if you lose a gateway then you have a hot backup. Additional gateways can also
-be installed in areas of poor reception to improve network coverage. Message de-duplication logic must be
-built either within the gateway or further down in back end systems connected to the network.
+## Build Sensors
+We have many tutorials that show you how to build sensors, or you can build them using hundreds of online tutorials. Some of our sensor tutorials include :
 
-{% include image.html file="Slide3.jpg" alt="Redundant Network"%}
+Door switch/Reed switch, Motion Sensor, Temperature Sensor, Humidity Sensor, Web Cam Motion Sensor, Water Sensor.
 
-### Point-to-point Communications
-Two or more MCU’s can communicate directly with each other as shown below.
-{% include image.html file="Slide4.jpg" alt="Point-to-Point"%}
+Using our range of wireless tutorials you can convert your sensor to a wireless battery operated IOT device!
+
+## Connect Your Sensor to The Internet
+
+In each of our projects we show you how to, firstly, build the sensor and secondly connect it to The Internet using your Raspberry Pi. We supply the Python code that you download from our web server.
+
+## Create an Alarm System
+
+PrivateEyePi has a cloud based alarm system where you can group sensors using zones. Zones can be activated and alarms triggered based on rules that you define.
+
+## ControlAS
+
+Some sensors, like relay switches, can be controlled through The Internet. You can also control the alarm system through the PrivateEyePi web based dashboard.
+
+## Monitor
+
+Using our dashboard you can monitor the status of sensors and view temperature and humidity readings in real time from The Internet. Using the PrivateEyePi Analytics you can view historical information. You can see trends using our daily, hourly and detailed data views.
+
+## Trigger
+
+IOT devices are useful for triggering alerts. Using our sophisticated rules engine you can create rules that are processed in real time to create alerts tailored to your needs. You use parameters like sensor values, time of day, days of week, alarm activated/deactivated to define rules specific to individual sensors. The rules can alert you to specific events like a door being opened, motion being detected or temperature or humidity reaching a threshold. You can also use the rules to determine if something hasn't happened. For example you may want to know if no motion has been detected for a time period (popular for monitoring the elderly). Or you may want to know if your garage door was not closed. You can also apply a delay setting to a rule that will only trigger after the rule if valid for a period of time (e.g. garage door open for more than 5 minutes). This is also useful for monitoring the temperature of your house or a fridge where you only want to be alerted after a sustained temperature drop or increase.
