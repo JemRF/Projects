@@ -1,7 +1,7 @@
 ---
 title: Wireless (RF) Devices
 keywords: getting starter, basics, basic, what, begin, beginner
-last_updated: Sep 28, 2020
+last_updated: Jan 1, 2022
 tags:
 summary: "This page describes the various Wireless radio broadcast devices we have and how to get started quickly"
 sidebar: mydoc_sidebar
