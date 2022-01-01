@@ -21,8 +21,6 @@ topnav_dropdowns:
           url: /faq.html
         - title: Contact Us
           external_url: https://www.jemrf.com/pages/contact-us
-        - title: JemRF Blog
-          external_url: https://jemrf.com
     - title: Products
       folderitems:
         - title: Wireless Temperature Sensor

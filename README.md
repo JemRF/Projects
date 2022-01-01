@@ -1,5 +1,5 @@
-# RF-Documentation
-Documentation for JemRF Radios
+# Projects
+Documentation for PrivateEyePi Projects and PrivateEyePi Monitoring Site
 
 Hosted here:
-https://jemrf.github.io/RF-Documentation/index.html
+https://jemrf.github.io/Projects/index.html
