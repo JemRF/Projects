@@ -8,7 +8,7 @@ output: web
 topnav_title: PrivateEyePi Projects
 # this appears on the top navigation bar next to the home button
 
-site_title: JemRF Documentation
+site_title: PrivateEyePi Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: JemRF
@@ -88,7 +88,6 @@ defaults:
       layout: "page"
       search: true
       tooltip: true
-
   -
     scope:
       path: ""
@@ -104,11 +103,7 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
 - mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
 
 description: "PrivateEyePi Projects Website"
 # the description is used in the feed.xml file
