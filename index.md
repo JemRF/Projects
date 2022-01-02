@@ -2,7 +2,6 @@
 title: "PrivateEyePi"
 keywords: getting started introduction
 summary: This is a Raspberry Pi projects website aimed at the Raspberry Pi enthusiast wanting to build home security/automation systems and at the same time learn programming and electronics.
-
 All software and source code we provide is free of charge can be copied, shared and modified without restriction. There are no charges for the alarm system or any of the projects. The parts you will need are described in the projects and can be sourced on your own or bought from the PrivateEyePi Store .
 sidebar: mydoc_sidebar
 permalink: index.html
@@ -40,4 +39,4 @@ IOT devices are useful for triggering alerts. Using our sophisticated rules engi
 
 
 ## The Internet Of Things (IOT) WiFi Devices
-The Internet Of Things WiFi sensors make connecting to The Internet easier than ever. You don't need no be an electronics or software expert or spend a lot of money on proprietary and closed systems to create your own IOT devices and control and monitor them from The Internet.
+The Internet Of Things WiFi sensors make connecting to The Internet easier than ever. You don't need no be an electronics or software expert or spend a lot of money on proprietary and closed systems to create your own IOT devices. The WiFi IOT Sensor can be controlled and monitored from The Internet.
