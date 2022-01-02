@@ -6,7 +6,6 @@ The Internet Of Things connects sensors and controls to The Internet made easy. 
 sidebar: mydoc_sidebar
 permalink: wifi_iot.html
 folder: mydoc
-
 ---
 
 ## Internet Of Things (IOT) WIFI Sensor
