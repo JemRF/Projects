@@ -1,11 +1,12 @@
 ---
 title: "PrivateEyePi"
 keywords: getting started introduction
-sidebar: mydoc_sidebar
-permalink: index.html
 summary: This is a Raspberry Pi projects website aimed at the Raspberry Pi enthusiast wanting to build home security/automation systems and at the same time learn programming and electronics.
 
 All software and source code we provide is free of charge can be copied, shared and modified without restriction. There are no charges for the alarm system or any of the projects. The parts you will need are described in the projects and can be sourced on your own or bought from the PrivateEyePi Store [PrivateEyePi Store ](https://www.jemrf.com).
+sidebar: mydoc_sidebar
+permalink: index.html
+folder: mydoc
 ---
 
 Using your Raspberry Pi you can easily build your own sensors and make your own Internet of Things (IOT).

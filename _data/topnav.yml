@@ -21,7 +21,7 @@ topnav_dropdowns:
           url: /faq.html
         - title: Contact Us
           external_url: https://www.jemrf.com/pages/contact-us
-    - title: Products
+    - title: Projects
       folderitems:
         - title: Wireless Temperature Sensor
           url: /wireless_temperature_sensor.html
