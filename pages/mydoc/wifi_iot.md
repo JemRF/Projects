@@ -1,7 +1,7 @@
 ---
-title: "The Internet Of Things (IOT)"
+title: The Internet Of Things (IOT)
 keywords: getting started introduction
-last_updated: Jan 1, 2022
+last_updated: Mar 27, 2022
 tags:
 summary: "The Internet Of Things (IOT) is phenomenon sweeping the world at this moment where everyday things (cars, homes, household appliances, plants) are being connected to the IOT where we can monitor, control and alert in ways not possible before."
 sidebar: mydoc_sidebar
