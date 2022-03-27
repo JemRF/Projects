@@ -114,3 +114,5 @@ description: "PrivateEyePi Projects Website"
 
 
 github: [metadata]
+
+theme: jekyll-theme-cayman
