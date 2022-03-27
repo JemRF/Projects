@@ -36,7 +36,7 @@ entries:
       url: /wifi_iot.html
       output: web, pdf
 
-  - title: WiFi Sensor
+  - title: WiFi IoT Sensor
     output: web, pdf
     folderitems:
 
@@ -44,7 +44,7 @@ entries:
       url: /rf_basics.html
       output: web, pdf
 
-    - title: Getting Connected
+    - title: Getting Sensor Connected
       url: /rf_modes.html
       output: web, pdf
 
@@ -53,6 +53,14 @@ entries:
       output: web, pdf
 
     - title: Additional Features
+      url: /rf_message_reference.html
+      output: web, pdf
+
+    - title: Interfacing with WiFi Sensor
+      url: /rf_message_reference.html
+      output: web, pdf
+
+    - title: Upgrade Sensor
       url: /rf_message_reference.html
       output: web, pdf
 
@@ -80,37 +88,58 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Configuration Overview
-      url: /configuration_overview.html
+    - title: Create Database Logger
       output: web, pdf
+      folderitems:
 
-    - title: HELLO
-      url: /hello.html
-      output: web, pdf
+      - title: Set up Raspberry Pi
+        url: /loggersetup.html
+        output: web, pdf
 
-    - title: Types
-      url: /types.html
-      output: web, pdf
+      - title: Developing a Sensor Logger
+        url: /loggerdevelop.html
+        output: web, pdf
 
-    - title: Sleep Modes
-      url: /sleep_modes.html
-      output: web, pdf
+      - title: Creating a Dynamic Web Page
+        url: /loggerweb.html
+        output: web, pdf
 
-    - title: Device ID
-      url: /device_id.html
+    - title: Temperature Sensor Using DS18B20
       output: web, pdf
+      folderitems:
 
-    - title: Personal Area Network (PAN)
-      url: /panid.html
-      output: web, pdf
+      - title: Project Description
+        url: /panid.html
+        output: web, pdf
 
-    - title: Frequency
-      url: /frequency.html
-      output: web, pdf
+      - title: Building Step by Step
+        url: /frequency.html
+        output: web, pdf
 
-    - title: Channels
-      url: /channel.html
+    - title: Temperature-Humidity Sensor Using DHT22
       output: web, pdf
+      folderitems:
+
+      - title: Project Description
+        url: /panid.html
+        output: web, pdf
+
+      - title: Building Step by Step
+        url: /frequency.html
+        output: web, pdf
+
+    - title: On/Off Project
+      output: web, pdf
+      folderitems:
+
+      - title: Project Description
+        url: /panid.html
+        output: web, pdf
+
+      - title: Building Step by Step
+        url: /frequency.html
+        output: web, pdf
+
 
     - title: Encryption
       url: /encryption.html
@@ -118,18 +147,6 @@ entries:
 
     - title: GPIO
       url: /gpio.html
-      output: web, pdf
-
-    - title: Resetting your device
-      url: /reset.html
-      output: web, pdf
-
-    - title: Hardware & Firmware
-      url: /hardware_and_firmware.html
-      output: web, pdf
-
-    - title: Multi-function Sensors
-      url: /multi function sensors.html
       output: web, pdf
 
   - title: Alarm System
@@ -146,34 +163,6 @@ entries:
 
     - title: Arduino Examples
       url: /under_construction.html
-      output: web, pdf
-
-    - title: MQTT
-      url: /mqtt.html
-      output: web, pdf
-
-    - title: Blynk
-      url: /blynk.html
-      output: web, pdf
-
-    - title: Adafruit IO
-      url: /adafruit.html
-      output: web, pdf
-
-    - title: Amazon AWS IoT
-      url: /amazon.html
-      output: web, pdf
-
-    - title: Google Cloud IoT
-      url: /google_cloud.html
-      output: web, pdf
-
-    - title: Home Assistant
-      url: /hass.html
-      output: web, pdf
-
-    - title: Thingsboard
-      url: /thingsboard.html
       output: web, pdf
 
   - title: Development Libraries
