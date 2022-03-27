@@ -21,7 +21,7 @@ We have implemented usage limits on the system to protect our system from being 
 ### Today's usage 45% (680/1500)
 
 This means you have used 45% of your daily allowance. The 680 represented how many data readings you have sent to the server and the 1500 represents the daily allowance. When you get close to exceeding your daily limit we will display a message at the top of the dashboard warning you that you are approaching your daily limit.
-At normal update of once every 5 minutes per sensors, 1500 readings provides storage for 5 sensors reporting once every 5 minutes per day.
+At normal update of once every 5 minutes per sensors, 1500 readings provides storage for 5 sensors reporting once every 5 minutes per day. More sensors can be used, but at a slower update rate to not exceed the 1500 per day.
 
 If you exceed your daily limit then the data on your dashboard will not be displayed. This is normally caused by a runaway sensor (like a motion sensor) that is sending data every few seconds. Sometimes we also encounter cases where the software on the Raspberry Pi has been modified to send data more frequently (e.g. temperature sensors). Please do not change transmit temperature sensor more frequently than 1 reading every 5 minutes. If you do then you will likely find you will exceed your daily allowance, or worse get your IP blocked from contacting our server.
 
