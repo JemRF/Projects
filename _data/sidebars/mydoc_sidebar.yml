@@ -36,23 +36,23 @@ entries:
       url: /wifi_iot.html
       output: web, pdf
 
-  - title: RF Wireless Devices
+  - title: WiFi Sensor
     output: web, pdf
     folderitems:
 
-    - title: Basics
+    - title: Introduction
       url: /rf_basics.html
       output: web, pdf
 
-    - title: Modes of Operation
+    - title: Getting Connected
       url: /rf_modes.html
       output: web, pdf
 
-    - title: Message Format
+    - title: Configuring Sensor
       url: /rf_message_format.html
       output: web, pdf
 
-    - title: Message Reference
+    - title: Additional Features
       url: /rf_message_reference.html
       output: web, pdf
 
