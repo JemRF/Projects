@@ -89,7 +89,6 @@ entries:
       url: /under_construction.html
       output: web, pdf
 
-
   - title: Create Database Logger
     output: web, pdf
     folderitems:
@@ -131,12 +130,20 @@ entries:
       output: web, pdf
 
   - title: On/Off Project
-    external_url: https://projects.privateeyepi.com/home/on-off-project.php
     output: web, pdf
+    folderitems:
+
+    - title: On/Off Project
+      external_url: https://projects.privateeyepi.com/home/on-off-project.php
+      output: web, pdf
 
   - title: Arm / Disarm using Switch
-    external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/arm-disarm-using-a-switch.php/under_construction.html
     output: web, pdf
+    folderitems:
+
+    - title: Arm / Disarm using Switch
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/arm-disarm-using-a-switch.php/under_construction.html
+      output: web, pdf
 
   - title: Flood/Water Presence Sensor
     external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php
