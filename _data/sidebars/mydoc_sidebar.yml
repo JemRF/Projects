@@ -69,7 +69,7 @@ entries:
     folderitems:
 
     - title: Introduction
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/webcam-surveillance-project.php
       output: web, pdf
 
     - title: Setup with Browser

@@ -21,8 +21,10 @@ topnav_dropdowns:
           url: /faq.html
         - title: Contact Us
           external_url: https://www.jemrf.com/pages/contact-us
-    - title: Projects
+    - title: Devices
       folderitems:
+        - title: WiFi IoT Sensor
+          external_url: https://projects.privateeyepi.com/WIFI-Sensor.php
         - title: Wireless Temperature Sensor
           url: /wireless_temperature_sensor.html
         - title: Wireless Waterproof Temperature Sensor
