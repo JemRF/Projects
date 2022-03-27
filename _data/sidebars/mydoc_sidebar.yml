@@ -36,32 +36,41 @@ entries:
       url: /wifi_iot.html
       output: web, pdf
 
+
+    - title: Usage for Free Monitoring
+      url: /usage_limits.html
+      output: web, pdf
+
   - title: WiFi IoT Sensor
     output: web, pdf
     folderitems:
 
     - title: Introduction
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/WIFI-Sensor.php
       output: web, pdf
 
-    - title: Getting Sensor Connected
-      url: /under_construction.html
+    - title: WiFi Sensor Configuration Guide
+      external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-temperature-sensor/wifi-sensor.php
       output: web, pdf
 
-    - title: Configuring Sensor
-      url: /under_construction.html
+    - title: Sensor Configuration
+      external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-temperature-and-humidity-sensor-configuration.php
       output: web, pdf
 
-    - title: Additional Features
-      url: /under_construction.html
+    - title: WiFi IOT relay Switch
+      external_url: https://projects.privateeyepi.com/WIFI-Sensor/iot-wifi-relay.php
+      output: web, pdf
+
+    - title: WiFi Switch
+      external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-switch.php
       output: web, pdf
 
     - title: Interfacing with WiFi Sensor
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/WIFI-Sensor/interfacing-with-the-wifi-sensor.php
       output: web, pdf
 
-    - title: Upgrade Sensor
-      url: /under_construction.html
+    - title: WiFi Sensor Firmware Upgrade
+      external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-sensor---firmware-upload.php
       output: web, pdf
 
   - title: Webcam Survellance Projects
@@ -86,15 +95,15 @@ entries:
     folderitems:
 
     - title: Set up Raspberry Pi
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/create-a-database-logger.php
       output: web, pdf
 
     - title: Developing a Sensor Logger
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/create-a-database-logger.php
       output: web, pdf
 
     - title: Creating a Dynamic Web Page
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/create-a-database-logger.php
       output: web, pdf
 
   - title: Temperature Sensor Using DS18B20
@@ -102,11 +111,11 @@ entries:
     folderitems:
 
     - title: Project Description
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20.php
       output: web, pdf
 
     - title: Building Step by Step
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20.php
       output: web, pdf
 
   - title: Temperature-Humidity Sensor Using DHT22
@@ -114,67 +123,80 @@ entries:
     folderitems:
 
     - title: Project Description
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/temperature-and-humidity.php
       output: web, pdf
 
     - title: Building Step by Step
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/temperature-and-humidity.php
       output: web, pdf
 
   - title: On/Off Project
-    url: /under_construction.html
+    external_url: https://projects.privateeyepi.com/home/on-off-project.php
     output: web, pdf
 
   - title: Arm / Disarm using Switch
-    url: /under_construction.html
+    external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/arm-disarm-using-a-switch.php/under_construction.html
     output: web, pdf
 
   - title: Flood/Water Presence Sensor
-    url: /under_construction.html
+    external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php
     output: web, pdf
 
   - title: Alarm System
     output: web, pdf
     folderitems:
 
+    - title: Introduction
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project.php
+      output: web, pdf
+
     - title: How it Works
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/how-it-works.php
       output: web, pdf
 
     - title: Getting Started
-      url: /under_construction.html
-      output: web, pdf
-
-    - title: Installation Steps
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation.php
       output: web, pdf
 
     - title: Alarm Electronics
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/alarm-electronics.php
       output: web, pdf
 
     - title: Install PrivateEyePi Software
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/install-privateeyepi.php
       output: web, pdf
 
     - title: Register with PrivateEyePi Server
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/register-user-andpassword.php
       output: web, pdf
 
     - title: Configure your Alarm System
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/configure-your-alarm-system.php
       output: web, pdf
 
     - title: Configure the Alarm Applications
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/configure-alarmpy-with-user-and-password.php
       output: web, pdf
 
     - title: PrivateEyePi Dashbord
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/test-your-alarm.php
       output: web, pdf
 
     - title: Automate Your System
-      url: /under_construction.html
+      external_url: https://projects.privateeyepi.com/automate-your-alarm.php
+      output: web, pdf
+
+  - title: LCD Projects for Raspberry Pi
+    external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/lcd-overview.php
+    output: web, pdf
+    folderitems:
+
+    - title: HD4470/SPLC780 LCD Raspberry Pi Project
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/lcd-project.php
+      output: web, pdf
+
+    - title: Nokia 5110 LCD Project
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/nokia-5110-lcd-project.php
       output: web, pdf
 
   - title: Development Libraries

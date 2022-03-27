@@ -56,5 +56,4 @@ Upgraded using a 3.3V FTDI cable (recomended while the product is in BETA)
 Supports SPI serial interface
 ## Board Layout:
 
-
 Click on image for bigger picture
