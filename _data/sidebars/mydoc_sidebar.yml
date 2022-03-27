@@ -187,7 +187,6 @@ entries:
       output: web, pdf
 
   - title: LCD Projects for Raspberry Pi
-    external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/lcd-overview.php
     output: web, pdf
     folderitems:
 
@@ -198,6 +197,10 @@ entries:
     - title: Nokia 5110 LCD Project
       external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/nokia-5110-lcd-project.php
       output: web, pdf
+
+  - title: Siren Project
+    external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/siren-project.php
+    output: web, pdf
 
   - title: Development Libraries
     output: web, pdf
