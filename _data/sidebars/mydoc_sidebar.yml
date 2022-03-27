@@ -138,7 +138,7 @@ entries:
     folderitems:
 
     - title: How it Works
-      url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/how-it-works.php
+      url: /under_construction.html
       output: web, pdf
 
     - title: Getting Started
