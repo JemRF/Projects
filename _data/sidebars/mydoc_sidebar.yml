@@ -36,7 +36,6 @@ entries:
       url: /wifi_iot.html
       output: web, pdf
 
-
     - title: Usage for Free Monitoring
       url: /usage_limits.html
       output: web, pdf
@@ -146,8 +145,12 @@ entries:
       output: web, pdf
 
   - title: Flood/Water Presence Sensor
-    external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php
     output: web, pdf
+    folderitems:
+
+    - title: Flood/Water Presence Sensor
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php
+      output: web, pdf
 
   - title: Alarm System
     output: web, pdf
@@ -205,9 +208,13 @@ entries:
       external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/nokia-5110-lcd-project.php
       output: web, pdf
 
-  - title: Siren Project
-    external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/siren-project.php
+  - title: Siren Projec
     output: web, pdf
+    folderitems:
+
+    - title: Siren Project
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/siren-project.php
+      output: web, pdf
 
   - title: Development Libraries
     output: web, pdf
