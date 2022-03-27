@@ -80,107 +80,100 @@ entries:
       url: /under_construction.html
       output: web, pdf
 
-  - title: Projects
+
+  - title: Create Database Logger
     output: web, pdf
     folderitems:
 
-    - title: Create Database Logger
-      output: web, pdf
-      folderitems:
-
-      - title: Set up Raspberry Pi
-        url: /under_construction.html
-        output: web, pdf
-
-      - title: Developing a Sensor Logger
-        url: /under_construction.html
-        output: web, pdf
-
-      - title: Creating a Dynamic Web Page
-        url: /under_construction.html
-        output: web, pdf
-
-    - title: Temperature Sensor Using DS18B20
-      output: web, pdf
-      folderitems:
-
-      - title: Project Description
-        url: /under_construction.html
-        output: web, pdf
-
-      - title: Building Step by Step
-        url: /under_construction.html
-        output: web, pdf
-
-    - title: Temperature-Humidity Sensor Using DHT22
-      output: web, pdf
-      folderitems:
-
-      - title: Project Description
-        url: /under_construction.html
-        output: web, pdf
-
-      - title: Building Step by Step
-        url: /under_construction.html
-        output: web, pdf
-
-    - title: On/Off Project
+    - title: Set up Raspberry Pi
       url: /under_construction.html
       output: web, pdf
 
-    - title: Arm / Disarm using Switch
+    - title: Developing a Sensor Logger
       url: /under_construction.html
       output: web, pdf
 
-    - title: Flood/Water Presence Sensor
+    - title: Creating a Dynamic Web Page
       url: /under_construction.html
       output: web, pdf
+
+  - title: Temperature Sensor Using DS18B20
+    output: web, pdf
+    folderitems:
+
+    - title: Project Description
+      url: /under_construction.html
+      output: web, pdf
+
+    - title: Building Step by Step
+      url: /under_construction.html
+      output: web, pdf
+
+  - title: Temperature-Humidity Sensor Using DHT22
+    output: web, pdf
+    folderitems:
+
+    - title: Project Description
+      url: /under_construction.html
+      output: web, pdf
+
+    - title: Building Step by Step
+      url: /under_construction.html
+      output: web, pdf
+
+  - title: On/Off Project
+    url: /under_construction.html
+    output: web, pdf
+
+  - title: Arm / Disarm using Switch
+    url: /under_construction.html
+    output: web, pdf
+
+  - title: Flood/Water Presence Sensor
+    url: /under_construction.html
+    output: web, pdf
 
   - title: Alarm System
     output: web, pdf
     folderitems:
 
     - title: How it Works
-      url: /under_construction.html
+      url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/how-it-works.php
       output: web, pdf
 
     - title: Getting Started
+      url: /under_construction.html
       output: web, pdf
-      folderitems:
 
-      - title: Installation Steps
-        url: /under_construction.html
-        output: web, pdf
+    - title: Installation Steps
+      url: /under_construction.html
+      output: web, pdf
 
-      - title: Alarm Electronics
-        url: /under_construction.html
-        output: web, pdf
+    - title: Alarm Electronics
+      url: /under_construction.html
+      output: web, pdf
 
-      - title: Install PrivateEyePi Software
-        url: /under_construction.html
-        output: web, pdf
+    - title: Install PrivateEyePi Software
+      url: /under_construction.html
+      output: web, pdf
 
-      - title: Register with PrivateEyePi Server
-        url: /under_construction.html
-        output: web, pdf
+    - title: Register with PrivateEyePi Server
+      url: /under_construction.html
+      output: web, pdf
 
-      - title: Configure your Alarm System
-        url: /under_construction.html
-        output: web, pdf
+    - title: Configure your Alarm System
+      url: /under_construction.html
+      output: web, pdf
 
-      - title: Configure the Alarm Applications
-        url: /under_construction.html
-        output: web, pdf
+    - title: Configure the Alarm Applications
+      url: /under_construction.html
+      output: web, pdf
 
-      - title: PrivateEyePi Dashbord
-        url: /under_construction.html
-        output: web, pdf
+    - title: PrivateEyePi Dashbord
+      url: /under_construction.html
+      output: web, pdf
 
-      - title: Automate Your System
-        url: /under_construction.html
-        output: web, pdf
-
-    - title: Arduino Examples
+    - title: Automate Your System
       url: /under_construction.html
       output: web, pdf
 
