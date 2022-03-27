@@ -41,47 +41,43 @@ entries:
     folderitems:
 
     - title: Introduction
-      url: /rf_basics.html
+      url: /under_construction.html
       output: web, pdf
 
     - title: Getting Sensor Connected
-      url: /rf_modes.html
+      url: /under_construction.html
       output: web, pdf
 
     - title: Configuring Sensor
-      url: /rf_message_format.html
+      url: /under_construction.html
       output: web, pdf
 
     - title: Additional Features
-      url: /rf_message_reference.html
+      url: /under_construction.html
       output: web, pdf
 
     - title: Interfacing with WiFi Sensor
-      url: /rf_message_reference.html
+      url: /under_construction.html
       output: web, pdf
 
     - title: Upgrade Sensor
-      url: /rf_message_reference.html
+      url: /under_construction.html
       output: web, pdf
 
-  - title: WiFi IOT Devices
+  - title: Webcam Survellance Projects
     output: web, pdf
     folderitems:
 
-    - title: Utilities
-      url: /utilities.html
+    - title: Introduction
+      url: /under_construction.html
       output: web, pdf
 
-    - title: IoT Gateway for Raspberry Pi
-      url: /iot_gateway.html
+    - title: Setup with Browser
+      url: /under_construction.html
       output: web, pdf
 
-    - title: Sensor Installation
-      url: /sensor_installation.html
-      output: web, pdf
-
-    - title: Testing
-      url: /sensor_testing.html
+    - title: DIY Motion Sensor
+      url: /under_construction.html
       output: web, pdf
 
   - title: Projects
@@ -93,15 +89,15 @@ entries:
       folderitems:
 
       - title: Set up Raspberry Pi
-        url: /loggersetup.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: Developing a Sensor Logger
-        url: /loggerdevelop.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: Creating a Dynamic Web Page
-        url: /loggerweb.html
+        url: /under_construction.html
         output: web, pdf
 
     - title: Temperature Sensor Using DS18B20
@@ -109,11 +105,11 @@ entries:
       folderitems:
 
       - title: Project Description
-        url: /panid.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: Building Step by Step
-        url: /frequency.html
+        url: /under_construction.html
         output: web, pdf
 
     - title: Temperature-Humidity Sensor Using DHT22
@@ -121,32 +117,23 @@ entries:
       folderitems:
 
       - title: Project Description
-        url: /panid.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: Building Step by Step
-        url: /frequency.html
+        url: /under_construction.html
         output: web, pdf
 
     - title: On/Off Project
-      output: web, pdf
-      folderitems:
-
-      - title: Project Description
-        url: /panid.html
-        output: web, pdf
-
-      - title: Building Step by Step
-        url: /frequency.html
-        output: web, pdf
-
-
-    - title: Encryption
-      url: /encryption.html
+      url: /under_construction.html
       output: web, pdf
 
-    - title: GPIO
-      url: /gpio.html
+    - title: Arm / Disarm using Switch
+      url: /under_construction.html
+      output: web, pdf
+
+    - title: Flood/Water Presence Sensor
+      url: /under_construction.html
       output: web, pdf
 
   - title: Alarm System
@@ -154,43 +141,43 @@ entries:
     folderitems:
 
     - title: How it Works
-      url: /privateeyepi.html
-      output: web, pdf
-
-    - title: Getting Started
       url: /under_construction.html
       output: web, pdf
 
-    - title: On/Off Project
+    - title: Getting Started
       output: web, pdf
       folderitems:
 
+      - title: Installation Steps
+        url: /under_construction.html
+        output: web, pdf
+
       - title: Alarm Electronics
-        url: /panid.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: Install PrivateEyePi Software
-        url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation.php
+        url: /under_construction.html
         output: web, pdf
 
       - title: Register with PrivateEyePi Server
-        url: /frequency.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: Configure your Alarm System
-        url: /frequency.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: Configure the Alarm Applications
-        url: /frequency.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: PrivateEyePi Dashbord
-        url: /frequency.html
+        url: /under_construction.html
         output: web, pdf
 
       - title: Automate Your System
-        url: /frequency.html
+        url: /under_construction.html
         output: web, pdf
 
     - title: Arduino Examples
