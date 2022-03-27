@@ -153,13 +153,45 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: PrivateEyePi
+    - title: How it Works
       url: /privateeyepi.html
       output: web, pdf
 
-    - title: Python Examples
+    - title: Getting Started
       url: /under_construction.html
       output: web, pdf
+
+    - title: On/Off Project
+      output: web, pdf
+      folderitems:
+
+      - title: Alarm Electronics
+        url: /panid.html
+        output: web, pdf
+
+      - title: Install PrivateEyePi Software
+        url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation.php
+        output: web, pdf
+
+      - title: Register with PrivateEyePi Server
+        url: /frequency.html
+        output: web, pdf
+
+      - title: Configure your Alarm System
+        url: /frequency.html
+        output: web, pdf
+
+      - title: Configure the Alarm Applications
+        url: /frequency.html
+        output: web, pdf
+
+      - title: PrivateEyePi Dashbord
+        url: /frequency.html
+        output: web, pdf
+
+      - title: Automate Your System
+        url: /frequency.html
+        output: web, pdf
 
     - title: Arduino Examples
       url: /under_construction.html
