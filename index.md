@@ -1,33 +1,23 @@
 ---
 title: "PrivateEyePi"
 keywords: getting started introduction
-last_updated: Jan 30, 2024
+last_updated: Jan 1, 2022
 tags:
-summary: This is a Raspberry Pi projects website aimed at the Raspberry Pi enthusiast wanting to build home security/automation systems and at the same time learn programming and electronics. All software and source code we provide is free of charge can be copied, shared and modified without restriction. There are no charges for the alarm system or any of the projects. The parts you will need are described in the projects and can be sourced on your own or bought from the PrivateEyePi Store .
+summary: This is a Raspberry Pi projects website aimed at the Raspberry Pi enthusiast wanting to build home security/automation systems and at the same time learn programming and electronics.
+All software and source code we provide is free of charge can be copied, shared and modified without restriction. There are no charges for the alarm system or any of the projects. The parts you will need are described in the projects and can be sourced on your own or bought from the PrivateEyePi Store .
 sidebar: mydoc_sidebar
 permalink: index.html
 folder: mydoc
 ---
-## Home Automation and Monitoring Projects for Raspberry Pi
-{% include image.html file="PrivateEyePi Main Page (640x491).jpg" alt="PrivateEyePi Monitoring%}
-## Welcome to Pi Projects by JemRF, aka: PrivateEyePi
-While this is primarily a Raspberry Pi projects website aimed at the Raspberry Pi enthusiast wanting to build home security/automation systems and at the same time learn programming and electronics. But we are not limited to Raspberry Pi, we also support many of the Orange Pi boards as well. For details visit Using Orange Pi with JemRF products . We also include our WiFi IoT product line as it is both standalone or server connected and has features you to customize.
 
-Our goal is to stimulate interest in home and DIY electronics that could lead to great projects or new career opportunities. We want to help those interested in learning electronics with working examples from how to make a temperature sensor, to how to build a home alarm system.
-All software and source code we provide is free of charge can be copied, shared and modified without restriction. There are no charges for the alarm system or any of the projects. The parts you will need are described in the projects and can be sourced on your own or bought from the JemRF Store.
-
-There are two free servers, one for the DIY minded at PrivateEyePi.com for you can use to monitor events, temperatures, and other types of sensors. The second is for a more professional looking monitoring dashboard there is jemrf.com with free notification.
-
-
-## The Internet Of Things (IoT) (with RaspberryPi and RF Devices)
-Using your Raspberry Pi you can easily build your own sensors and make your own Internet of Things (IoT).
+Using your Raspberry Pi you can easily build your own sensors and make your own Internet of Things (IOT).
 
 ## Build Sensors
 We have many tutorials that show you how to build sensors, or you can build them using hundreds of online tutorials. Some of our sensor tutorials include :
 
-[Door switch/Reed switch](https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Motion Sensor}(https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Temperature Sensor](https://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20.php), [Humidity Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/temperature-and-humidity.php), [Web Cam Motion Sensor](https://projects.privateeyepi.com/home/webcam-surveillance-project.php), [Water Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php).
+Door switch/Reed switch, Motion Sensor, Temperature Sensor, Humidity Sensor, Web Cam Motion Sensor, Water Sensor.
 
-Using our range of wireless tutorials you can convert your sensor to a wireless battery operated IoT device!
+Using our range of wireless tutorials you can convert your sensor to a wireless battery operated IOT device!
 
 ## Connect Your Sensor to The Internet
 
@@ -35,7 +25,7 @@ In each of our projects we show you how to, firstly, build the sensor and second
 
 ## Create an Alarm System
 
-PrivateEyePi has a [cloud based alarm system](https://projects.privateeyepi.com/home/home-alarm-system-project.php) where you can group sensors using zones. Zones can be activated and alarms triggered based on rules that you define.
+PrivateEyePi has a cloud based alarm system where you can group sensors using zones. Zones can be activated and alarms triggered based on rules that you define.
 
 ## Control Relays
 
@@ -43,12 +33,12 @@ Some sensors, like relay switches, can be controlled through The Internet. You c
 
 ## Monitor
 
-Using our [dashboard](https://projects.privateeyepi.com/home/home-alarm-system-project/installation/how-it-works.php) you can monitor the status of sensors and view temperature and humidity readings in real time from The Internet. Using the PrivateEyePi Analytics you can view historical information. You can see trends using our daily, hourly and detailed data views.
+Using our dashboard you can monitor the status of sensors and view temperature and humidity readings in real time from The Internet. Using the PrivateEyePi Analytics you can view historical information. You can see trends using our daily, hourly and detailed data views.
 
 ## Trigger
 
-IoT devices are useful for triggering alerts. Using our sophisticated rules engine you can create rules that are processed in real time to create alerts tailored to your needs. You use parameters like sensor values, time of day, days of week, alarm activated/deactivated to define rules specific to individual sensors. The rules can alert you to specific events like a door being opened, motion being detected or temperature or humidity reaching a threshold. You can also use the rules to determine if something hasn't happened. For example you may want to know if no motion has been detected for a time period (popular for monitoring the elderly). Or you may want to know if your garage door was not closed. You can also apply a delay setting to a rule that will only trigger after the rule if valid for a period of time (e.g. garage door open for more than 5 minutes). This is also useful for monitoring the temperature of your house or a fridge where you only want to be alerted after a sustained temperature drop or increase.
+IOT devices are useful for triggering alerts. Using our sophisticated rules engine you can create rules that are processed in real time to create alerts tailored to your needs. You use parameters like sensor values, time of day, days of week, alarm activated/deactivated to define rules specific to individual sensors. The rules can alert you to specific events like a door being opened, motion being detected or temperature or humidity reaching a threshold. You can also use the rules to determine if something hasn't happened. For example you may want to know if no motion has been detected for a time period (popular for monitoring the elderly). Or you may want to know if your garage door was not closed. You can also apply a delay setting to a rule that will only trigger after the rule if valid for a period of time (e.g. garage door open for more than 5 minutes). This is also useful for monitoring the temperature of your house or a fridge where you only want to be alerted after a sustained temperature drop or increase.
 
 
-## The Internet Of Things (IoT) WiFi Devices
-The Internet Of Things WiFi sensors make connecting to The Internet easier than ever. You don't need no be an electronics or software expert or spend a lot of money on proprietary and closed systems to create your own IoT devices. The WiFi IoT Sensor can be controlled and monitored from The Internet.
+## The Internet Of Things (IOT) WiFi Devices
+The Internet Of Things WiFi sensors make connecting to The Internet easier than ever. You don't need no be an electronics or software expert or spend a lot of money on proprietary and closed systems to create your own IOT devices. The WiFi IOT Sensor can be controlled and monitored from The Internet.
