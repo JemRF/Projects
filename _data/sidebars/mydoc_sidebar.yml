@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product:
+  product: JemRF Projects
   version:
   folders:
 
@@ -18,6 +18,22 @@ entries:
       url: /tocpage.html
       output: pdf
       type: frontmatter
+
+  - title: Documents
+    output: web
+    folderitems:
+    - title: RF Introduction
+      external_url: https://documents.jemrf.com/rfintroduction.html
+      output: web, pdf
+      type: homepage
+
+    - title: Wifi Introduction
+      external_url: https://documents.jemrf.com/wifi_intro.html
+      output: web, pdf
+
+    - title: Projects Introduction
+      external_url: https://projects.jemrf.com/
+      output: web, pdf
 
   - title: Overview
     output: web, pdf
