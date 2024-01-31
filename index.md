@@ -27,7 +27,7 @@ Using your Raspberry Pi you can easily build your own sensors and make your own 
 ## Build Sensors
 We have many tutorials that show you how to build sensors, or you can build them using hundreds of online tutorials. Some of our sensor tutorials include :
 
-Door switch/Reed switch, Motion Sensor, Temperature Sensor, Humidity Sensor, Web Cam Motion Sensor, Water Sensor.
+[Door switch/Reed switch](https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Motion Sensor}(https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Temperature Sensor](https://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20.php), [Humidity Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/temperature-and-humidity.php), [Web Cam Motion Sensor](https://projects.privateeyepi.com/home/webcam-surveillance-project.php), [Water Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php).
 
 Using our range of wireless tutorials you can convert your sensor to a wireless battery operated IOT device!
 
@@ -37,7 +37,7 @@ In each of our projects we show you how to, firstly, build the sensor and second
 
 ## Create an Alarm System
 
-PrivateEyePi has a cloud based alarm system where you can group sensors using zones. Zones can be activated and alarms triggered based on rules that you define.
+PrivateEyePi has a [cloud based alarm system](https://projects.privateeyepi.com/home/home-alarm-system-project.php) where you can group sensors using zones. Zones can be activated and alarms triggered based on rules that you define.
 
 ## Control Relays
 
@@ -45,7 +45,7 @@ Some sensors, like relay switches, can be controlled through The Internet. You c
 
 ## Monitor
 
-Using our dashboard you can monitor the status of sensors and view temperature and humidity readings in real time from The Internet. Using the PrivateEyePi Analytics you can view historical information. You can see trends using our daily, hourly and detailed data views.
+Using our [dashboard](https://projects.privateeyepi.com/home/home-alarm-system-project/installation/how-it-works.php) you can monitor the status of sensors and view temperature and humidity readings in real time from The Internet. Using the PrivateEyePi Analytics you can view historical information. You can see trends using our daily, hourly and detailed data views.
 
 ## Trigger
 
