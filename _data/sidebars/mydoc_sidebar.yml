@@ -252,3 +252,23 @@ entries:
       url: /esp32-gateway.html
       output: web, pdf
 
+  - title: JemRF Resources
+    output: web, pdf
+    folderitems:
+
+    - title: Create Account on JemRF Monitoring
+      external_url: https://documents.jemrf.com/jemrfregister.html
+      output: web, pdf
+
+    - title: Python Code changes for Monitor.JemRF.com
+      external_url: https://documents.jemrf.com/monitoring.html
+      output: web, pdf
+
+    - title: JemRF Message to Server Formats
+      external_url: https://documents.jemrf.com/alarmhost.html
+      output: web, pdf
+
+    - title: JemRF Projects url
+      external_url: https://projects.jemrf.com
+      output: web, pdf
+
