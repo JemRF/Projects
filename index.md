@@ -27,7 +27,7 @@ Using your Raspberry Pi you can easily build your own sensors and make your own 
 ## Build Sensors
 We have many tutorials that show you how to build sensors, or you can build them using hundreds of online tutorials. Some of our sensor tutorials include :
 
-[Door switch/Reed switch](https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Motion Sensor}(https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Temperature Sensor](https://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20.php), [Humidity Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/temperature-and-humidity.php), [Web Cam Motion Sensor](https://projects.privateeyepi.com/home/webcam-surveillance-project.php), [Water Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php).
+[Door switch/Reed switch](https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Motion Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Temperature Sensor](https://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20.php), [Humidity Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/temperature-and-humidity.php), [Web Cam Motion Sensor](https://projects.privateeyepi.com/home/webcam-surveillance-project.php), [Water Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php).
 
 Using our range of wireless tutorials you can convert your sensor to a wireless battery operated IOT device!
 
@@ -53,4 +53,61 @@ IOT devices are useful for triggering alerts. Using our sophisticated rules engi
 
 
 ## The Internet Of Things (IOT) WiFi Devices
-The Internet Of Things WiFi sensors make connecting to The Internet easier than ever. You don't need no be an electronics or software expert or spend a lot of money on proprietary and closed systems to create your own IOT devices. The WiFi IOT Sensor can be controlled and monitored from The Internet.
+The [Internet Of Things WiFi sensors](https://documents.jemrf.com/wifi_iot.html) make connecting to The Internet easier than ever. You don't need no be an electronics or software expert or spend a lot of money on proprietary and closed systems to create your own IOT devices. The WiFi IOT Sensor can be controlled and monitored from The Internet.
+
+## Projects:
+### [Home Alarm System Project](https://projects.privateeyepi.com/home/home-alarm-system-project.php)
+* Build a home alarm system and link it to existing door contacts or alarm sensors
+* Connect the alarm system to our server which will feed your own personal WWW dashboard, which is designed for mobile devices
+* Use the dashboard to control your alarm system zones, and view alerts and activity logs
+* Configure your Raspberry Pi to send email alerts to you whenever a alarm occurs
+* Receive alerts and view your dashboard from you PC, smart phone or any device that has a browser and connection to the internet
+### [Webcam Surveillance Projects](https://projects.privateeyepi.com/home/webcam-surveillance-project.php)
+* Create a surveillance monitor using any popular webcam and a Raspberry Pi
+* Create a motion sensor from a webcam and a Raspberry Pi
+* Create email alerts with pictures attached when motion is detected.
+### [Multiple Temperature Gauges On One Dashboard](https://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20.php)
+* Build a digital temperature gauge with the highly accurate DS18B20 or DHT22 sensor
+* Display a temperature gauge and graph in Celsius (centigrade) or Fahrenheit on your dashboard
+* Add as many temperature gauges as you like to your dashboard
+#### DS18B20 Temperature Project
+* Multiple DS18B20 sensors can be connected to the same GPIO pin
+* Does not support humidity
+#### DHT22 Project
+* Multiple DHT22 sensors can be connected to multiple GPIO pins
+* DHT22 does support humidity which is also displayed on the dashboard
+
+{% include image.html file="raspberry pi multiple temperature sensor dashboard6708.png" alt="DHT22 Project"%}
+
+### Wireless Sensor Projects
+* Build a wireless temperature sensor, wireless door contact or panic button, wireless water sensor or wireless motion sensor.
+* We have sourced high reliable wireless components that have very long battery life (over 1 million transmits from 1 battery) and very powerful radio frequency signal that can easily operate in and around your home.
+* Highly secure encrypted communication
+* No knowledge in wireless communications necessary the wireless modules communicate with each other using a light weight easy to understand text protocol (LLAP)
+* Lowest price point on the market for this sophistication
+* Visit the [RF Devices store](https://www.jemrf.com) to purchase the components
+
+{% include image.html file="raspberry pi multiple temperature sensor dashboard6708.png" alt="Wireless Temperature Sensor"%}
+
+Wireless Temperature Sensor
+
+### [Water sensing project (wired to Raspberry Pi)](https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php)
+YouTube Video
+
+
+### [Siren Project](https://projects.privateeyepi.com/home/home-alarm-system-project/siren-project.php)
+* Attach a buzzer or external siren to the alarm system
+* This project is dependent on you completing the alarm system project first
+### Arm/Disarm using a switch
+* Arm/Disarm your alarm using switches connected to your Raspberry Pi
+### Automate your alarm and sensors
+* Auto restart the alarm if it is down
+* Run the alarm as a background process
+
+### [On/Off Project](https://projects.privateeyepi.com/home/on-off-project.php)
+* Switch a light on/off using your smart phone
+* Utilizes a relay switch, GPIO ports, a light weight web server and JavaScipt running on Node.js
+* Everything runs locally on your Raspberry Pi
+* No programming skills required
+{% include image.html file="IMG_4524 (640x480)1cd9.jpg" alt="ON/Off Project"%}
+
