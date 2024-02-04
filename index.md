@@ -9,7 +9,7 @@ sidebar: mydoc_sidebar
 permalink: index.html
 folder: mydoc
 ---
-
+<!-- no toc -->
 ## Home Automation and Monitoring Projects for Raspberry Pi
 {% include image.html file="PrivateEyePi Main Page (640x491).jpg" alt="PrivateEyePi Monitoring"%}
 ## Welcome to Pi Projects by JemRF, aka: PrivateEyePi
