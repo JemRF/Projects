@@ -9,7 +9,6 @@ sidebar: mydoc_sidebar
 permalink: index.html
 folder: mydoc
 ---
-<!-- no toc -->
 ## Home Automation and Monitoring Projects for Raspberry Pi
 {% include image.html file="PrivateEyePi Main Page (640x491).jpg" alt="PrivateEyePi Monitoring"%}
 ## Welcome to Pi Projects by JemRF, aka: PrivateEyePi
@@ -20,7 +19,7 @@ All software and source code we provide is free of charge can be copied, shared 
 
 There are two free servers, one for the DIY minded at PrivateEyePi.com for you can use to monitor events, temperatures, and other types of sensors. The second is for a more professional looking monitoring dashboard there is [monitor.jemrf.com](https://monitor.jemrf.com) with free notification.
 
-
+<!-- no toc -->
 ## The Internet Of Things (IoT) (with RaspberryPi and RF Devices)
 Using your Raspberry Pi you can easily build your own sensors and make your own Internet of Things (IoT).
 
