@@ -31,7 +31,11 @@ entries:
       external_url: https://documents.jemrf.com/wifi_intro.html
       output: web, pdf
 
-    - title: Projects Introduction
+    - title: Projects Introduction (Older Site)
+      external_url: https://projects.privateeyepi.com/
+      output: web, pdf
+
+    - title: Projects Introduction (2024 New Site)
       external_url: https://projects.jemrf.com/
       output: web, pdf
 
@@ -61,34 +65,34 @@ entries:
     folderitems:
 
     - title: Introduction
-      external_url: https://projects.privateeyepi.com/WIFI-Sensor.php
+      external_url: https://documents.jemrf.com/wifi_iot.html
       output: web, pdf
 
-    - title: WiFi Sensor Configuration Guide
-      external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-temperature-sensor/wifi-sensor.php
+    - title: WiFi Sensor Getting Started
+      url: https://documents.jemrf.com/wifi-iot-setup.html
       output: web, pdf
 
-    - title: Sensor Configuration
-      external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-temperature-and-humidity-sensor-configuration.php
+    - title: WiFi Sensor Advanced Options
+      url: https://documents.jemrf.com/wifi-iot-advance.html
       output: web, pdf
 
-    - title: WiFi IOT relay Switch
-      external_url: https://projects.privateeyepi.com/WIFI-Sensor/iot-wifi-relay.php
+    - title: Interfacing with the Sensor Offline
+      url: https://documents.jemrf.com/wifi-iot-offline.html
       output: web, pdf
 
     - title: WiFi Switch
       external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-switch.php
       output: web, pdf
 
-    - title: Interfacing with WiFi Sensor
-      external_url: https://projects.privateeyepi.com/WIFI-Sensor/interfacing-with-the-wifi-sensor.php
+    - title: WiFi Remote Control Switch
+      external_url: https://projects.privateeyepi.com/WIFI-Sensor/iot-wifi-relay.php
       output: web, pdf
 
     - title: WiFi Sensor Firmware Upgrade
-      external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-sensor---firmware-upload.php
+      external_url: https://documents.jemrf.com/wifi-iot-updates.html
       output: web, pdf
 
-  - title: Webcam Survellance Projects
+  - title: Webcam Surveillance Projects
     output: web, pdf
     folderitems:
 
