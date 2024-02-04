@@ -256,6 +256,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Frequently Asked Questions
+      external_url: https://documents.jemrf.com/faq.html
+      output: web, pdf
+
     - title: Create Account on JemRF Monitoring
       external_url: https://documents.jemrf.com/jemrfregister.html
       output: web, pdf

@@ -20,7 +20,6 @@ All software and source code we provide is free of charge can be copied, shared 
 
 There are two free servers, one for the DIY minded at PrivateEyePi.com for you can use to monitor events, temperatures, and other types of sensors. The second is for a more professional looking monitoring dashboard there is [monitor.jemrf.com](https://monitor.jemrf.com) with free notification.
 
-<!-- no toc -->
 ## The Internet Of Things (IoT) (with RaspberryPi and RF Devices)
 Using your Raspberry Pi you can easily build your own sensors and make your own Internet of Things (IoT).
 
@@ -47,7 +46,7 @@ Some sensors, like relay switches, can be controlled through The Internet. You c
 
 Using our [dashboard](https://projects.privateeyepi.com/home/home-alarm-system-project/installation/how-it-works.php) you can monitor the status of sensors and view temperature and humidity readings in real time from The Internet. Using the PrivateEyePi Analytics you can view historical information. You can see trends using our daily, hourly and detailed data views.
 
-<h2> Trigger</h2>
+<h3> Trigger -</h3>
 
 IOT devices are useful for triggering alerts. Using our [sophisticated rules engine](https://projects.privateeyepi.com/home/rules-1.php) you can create rules that are processed in real time to create alerts tailored to your needs. You use parameters like sensor values, time of day, days of week, alarm activated/deactivated to define rules specific to individual sensors. The rules can alert you to specific events like a door being opened, motion being detected or temperature or humidity reaching a threshold. You can also use the rules to determine if something hasn't happened. For example you may want to know if no motion has been detected for a time period (popular for monitoring the elderly). Or you may want to know if your garage door was not closed. You can also apply a delay setting to a rule that will only trigger after the rule if valid for a period of time (e.g. garage door open for more than 5 minutes). This is also useful for monitoring the temperature of your house or a fridge where you only want to be alerted after a sustained temperature drop or increase.
 
