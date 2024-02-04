@@ -9,9 +9,10 @@ sidebar: mydoc_sidebar
 permalink: index.html
 folder: mydoc
 ---
-## Home Automation and Monitoring Projects for Raspberry Pi
+<h2> Home Automation and Monitoring Projects for Raspberry Pi </h2>
 {% include image.html file="PrivateEyePi Main Page (640x491).jpg" alt="PrivateEyePi Monitoring"%}
-## Welcome to Pi Projects by JemRF, aka: PrivateEyePi
+
+<h2> Welcome to Pi Projects by JemRF, aka: PrivateEyePi</h2>
 While this is primarily a **Raspberry Pi** projects website aimed at the Raspberry Pi enthusiast wanting to build home security/automation systems and at the same time learn programming and electronics. But we are not limited to Raspberry Pi, we also support many of the **Orange Pi** boards as well. For details visit [Using Orange Pi with JemRF products](https://jemrf.github.io/RF-Documentation/orangepi.html) . We also include our WiFi IoT product line as it is both standalone or server connected and has features you to customize.
 
 Our goal is to stimulate interest in home and DIY electronics that could lead to great projects or new career opportunities. We want to help those interested in learning electronics with working examples from how to make a temperature sensor, to how to build a home alarm system.
@@ -23,30 +24,30 @@ There are two free servers, one for the DIY minded at PrivateEyePi.com for you c
 ## The Internet Of Things (IoT) (with RaspberryPi and RF Devices)
 Using your Raspberry Pi you can easily build your own sensors and make your own Internet of Things (IoT).
 
-## Build Sensors
+<h2> Build Sensors</h2>
 We have many tutorials that show you how to build sensors, or you can build them using hundreds of online tutorials. Some of our sensor tutorials include :
 
 [Door switch/Reed switch](https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Motion Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project.php), [Temperature Sensor](https://projects.privateeyepi.com/home/temperature-sensor-project-using-ds18b20.php), [Humidity Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/temperature-and-humidity.php), [Web Cam Motion Sensor](https://projects.privateeyepi.com/home/webcam-surveillance-project.php), [Water Sensor](https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/flood-water-presence-sensor.php).
 
 Using our [range of wireless tutorials](https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects.php) you can convert your sensor to a wireless battery operated IOT device!
 
-## Connect Your Sensor to The Internet
+<h2> Connect Your Sensor to The Internet</h2>
 
 In each of our projects we show you how to, firstly, build the sensor and secondly connect it to The Internet using your Raspberry Pi. We supply the Python code that you download from our web server.
 
-## Create an Alarm System
+<h2> Create an Alarm System</h2>
 
 PrivateEyePi has a [cloud based alarm system](https://projects.privateeyepi.com/home/home-alarm-system-project.php) where you can group sensors using zones. Zones can be activated and alarms triggered based on rules that you define.
 
-## Control Relays
+<h2> Control Relays</h2>
 
 Some sensors, like relay switches, can be controlled through The Internet. You can also control the alarm system through the PrivateEyePi web based dashboard.
 
-## Monitor
+<h2> Monitor</h2>
 
 Using our [dashboard](https://projects.privateeyepi.com/home/home-alarm-system-project/installation/how-it-works.php) you can monitor the status of sensors and view temperature and humidity readings in real time from The Internet. Using the PrivateEyePi Analytics you can view historical information. You can see trends using our daily, hourly and detailed data views.
 
-## Trigger
+<h2> Trigger</h2>
 
 IOT devices are useful for triggering alerts. Using our [sophisticated rules engine](https://projects.privateeyepi.com/home/rules-1.php) you can create rules that are processed in real time to create alerts tailored to your needs. You use parameters like sensor values, time of day, days of week, alarm activated/deactivated to define rules specific to individual sensors. The rules can alert you to specific events like a door being opened, motion being detected or temperature or humidity reaching a threshold. You can also use the rules to determine if something hasn't happened. For example you may want to know if no motion has been detected for a time period (popular for monitoring the elderly). Or you may want to know if your garage door was not closed. You can also apply a delay setting to a rule that will only trigger after the rule if valid for a period of time (e.g. garage door open for more than 5 minutes). This is also useful for monitoring the temperature of your house or a fridge where you only want to be alerted after a sustained temperature drop or increase.
 
