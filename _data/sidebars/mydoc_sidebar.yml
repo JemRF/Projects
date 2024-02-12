@@ -44,6 +44,15 @@ entries:
       external_url: https://projects.jemrf.com/
       output: web, pdf
 
+    - title: Introduction to JemRF Monitoring
+      external_url: https://documents.jemrf.com/monitorintro.html
+      output: web, pdf
+
+    - title: Introduction to PrivateEyePi
+      external_url: https://documents.jemrf.com/pepintroduction.html
+      output: web, pdf
+
+
   - title: Overview
     output: web, pdf
     folderitems:
@@ -74,23 +83,23 @@ entries:
       output: web, pdf
 
     - title: WiFi Sensor Getting Started
-      url: https://documents.jemrf.com/wifi-iot-setup.html
+      external_url: https://documents.jemrf.com/wifi-iot-setup.html
       output: web, pdf
 
     - title: WiFi Sensor Advanced Options
-      url: https://documents.jemrf.com/wifi-iot-advance.html
+      external_url: https://documents.jemrf.com/wifi-iot-advance.html
       output: web, pdf
 
     - title: Interfacing with the Sensor Offline
-      url: https://documents.jemrf.com/wifi-iot-offline.html
+      external_url: https://documents.jemrf.com/wifi-iot-offline.html
       output: web, pdf
 
     - title: WiFi Switch
-      external_url: https://projects.privateeyepi.com/WIFI-Sensor/wifi-switch.php
+      external_url: https://documents.jemrf.com//wifi-switch.html
       output: web, pdf
 
     - title: WiFi Remote Control Switch
-      external_url: https://projects.privateeyepi.com/WIFI-Sensor/iot-wifi-relay.php
+      external_url: https://documents.jemrf.com/wifi-remote-relay-switch.html
       output: web, pdf
 
     - title: WiFi Sensor Firmware Upgrade
@@ -213,7 +222,7 @@ entries:
       external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/configure-alarmpy-with-user-and-password.php
       output: web, pdf
 
-    - title: PrivateEyePi Dashbord
+    - title: PrivateEyePi Dashboard
       external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/test-your-alarm.php
       output: web, pdf
 
@@ -233,7 +242,7 @@ entries:
       external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/nokia-5110-lcd-project.php
       output: web, pdf
 
-  - title: Siren Projec
+  - title: Siren Project
     output: web, pdf
     folderitems:
 
@@ -246,19 +255,19 @@ entries:
     folderitems:
 
     - title: Arduino c++ - RFLIB Library
-      url: /rflib.html
+      external_url: https://documents.jemrf.com/rflib.html
       output: web, pdf
 
     - title: Raspberry Pi PICO c++ - RFLIB Library
-      url: /raspberry-pi-pico.html
+      external_url: https://documents.jemrf.com/raspberry-pi-pico.html
       output: web, pdf
 
     - title: Python - RFLIB Library
-      url: /python_rflib.html
+      external_url: https://documents.jemrf.com/python_rflib.html
       output: web, pdf
 
     - title: ESP32 c++ - PrivateEyePi
-      url: /esp32-gateway.html
+      external_url: https://documents.jemrf.com/esp32-gateway.html
       output: web, pdf
 
   - title: JemRF Resources
@@ -278,6 +287,6 @@ entries:
       output: web, pdf
 
     - title: JemRF Message to Server Formats
-      external_url: https://documents.jemrf.com/alarmhost.html
+      external_url: https://documents.jemrf.com/messageformats.html
       output: web, pdf
 
