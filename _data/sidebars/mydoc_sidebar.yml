@@ -95,7 +95,7 @@ entries:
       output: web, pdf
 
     - title: WiFi Switch
-      external_url: https://documents.jemrf.com//wifi-switch.html
+      external_url: https://documents.jemrf.com/wifi-switch.html
       output: web, pdf
 
     - title: WiFi Remote Control Switch
