@@ -250,6 +250,45 @@ entries:
       external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/siren-project.php
       output: web, pdf
 
+  - title: Flex Tutorials
+    output: web, pdf
+    folderitems:
+    - title: Getting Started - Communicate with the Raspberry Pi RF Base Station
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/wireless-sensor---flex-rf-module/flex-tutorials/establish-communications.php
+      output: web, pdf
+
+    - title: How to Change the Device ID
+      url: /change-the-device-id.html
+      output: web, pdf
+
+    - title: Configure RF Module Type
+      url: /configure-a-rf-module-type.html
+      output: web, pdf
+
+    - title: Wake & Sleep
+      url:/ wake-sleep.html
+      output: web, pdf
+
+    - title: Wireless temperature and Humidity Sensor node with DHT-22
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/wireless-sensor---flex-rf-module/flex-tutorials/flex-dht22.php
+      output: web, pdf
+
+    - title: Flex module and DS18B20 temperature sensor
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/wireless-sensor---flex-rf-module/flex-tutorials/flex-module-and-ds18b20-temperature-sensor.php
+      output: web, pdf
+
+    - title: How to use the flex module for remote-control
+      url: /flex-module-for-remote-control.html
+      output: web, pdf
+
+    - title: How to configure PrivateEyePi Rules to remotely control a FLEX module
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/wireless-sensor---flex-rf-module/flex-tutorials/how-to-configure-privateeyepi-rules-to-remotely-control-a-flex-module.php
+      output: web, pdf
+
+    - title: Wireless communications with Arduino
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/wireless-sensor---flex-rf-module/flex-tutorials/establish-communications-with-an-arduino.php
+      output: web, pdf
+
   - title: Development Libraries
     output: web, pdf
     folderitems:
