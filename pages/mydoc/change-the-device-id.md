@@ -56,4 +56,3 @@ You can view the video tutorial here (maximize screen to be able to read the tex
 
 {% include youtubePlayer.html id=page.youtubeId  %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eZpDi8QuWDk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
