@@ -110,16 +110,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Introduction
+    - title: Webcam Surveillance Monitor
       external_url: https://projects.privateeyepi.com/home/webcam-surveillance-project.php
       output: web, pdf
 
-    - title: Setup with Browser
-      url: /under_construction.html
+    - title: PIR Sensor
+      external_url: https://projects.privateeyepi.com/home/webcam-surveillance-project/diy-motion-sensor.php
       output: web, pdf
 
-    - title: DIY Motion Sensor
-      url: /under_construction.html
+    - title: Alarm Electronics
+      external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/installation/alarm-electronics.php
       output: web, pdf
 
   - title: Create Database Logger
@@ -253,6 +253,7 @@ entries:
   - title: Flex Tutorials
     output: web, pdf
     folderitems:
+
     - title: Getting Started - Communicate with the Raspberry Pi RF Base Station
       external_url: https://projects.privateeyepi.com/home/home-alarm-system-project/wireless-projects/wireless-sensor---flex-rf-module/flex-tutorials/establish-communications.php
       output: web, pdf
@@ -266,7 +267,7 @@ entries:
       output: web, pdf
 
     - title: Wake & Sleep
-      url:/ wake-sleep.html
+      url: /wake-sleep.html
       output: web, pdf
 
     - title: Wireless temperature and Humidity Sensor node with DHT-22
