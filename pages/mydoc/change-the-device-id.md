@@ -56,5 +56,6 @@ You can view the video tutorial here (maximize screen to be able to read the tex
 ---
 youtubeId: eZpDi8QuWDk
 ---
-{% include youtubePlayer.html id=page.eZpDi8QuWDk %}
-{% include youtubePlayer.html id=eZpDi8QuWDk %}
+{% include youtubePlayer.html id =page.eZpDi8QuWDk %}
+{% include youtubePlayer.html include.id =page.eZpDi8QuWDk %}
+{% include youtubePlayer.html include.id =eZpDi8QuWDk %}
