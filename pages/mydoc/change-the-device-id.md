@@ -53,5 +53,8 @@ In above examples we changed the Device ID over the air, but you could also use 
 
 You can view the video tutorial here (maximize screen to be able to read the text):
 
-https://youtu.be/eZpDi8QuWDk
+---
+youtubeId: eZpDi8QuWDk
+---
 {% include youtubePlayer.html id=page.eZpDi8QuWDk %}
+{% include youtubePlayer.html id=eZpDi8QuWDk %}
