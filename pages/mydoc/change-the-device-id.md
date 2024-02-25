@@ -53,4 +53,5 @@ In above examples we changed the Device ID over the air, but you could also use 
 
 You can view the video tutorial here (maximize screen to be able to read the text):
 
-<img src="https://youtu.be/eZpDi8QuWDk" width="425"/>
+https://youtu.be/eZpDi8QuWDk
+{% include youtubePlayer.html id=page.eZpDi8QuWDk %}
