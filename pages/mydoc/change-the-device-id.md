@@ -7,6 +7,7 @@ summary: "This page describes how to Change the Device ID"
 sidebar: mydoc_sidebar
 permalink: change-the-device-id.html
 folder: mydoc
+youtubeId: eZpDi8QuWDk
 ---
 n this tutorial you will change the Device ID of a RF module. The Device ID is what uniquely identifies each module on a Personal Area Network (PAN).  The PanID is a 5 digit numeric identifier (00000-99999). As shown in the below diagram the PanID is used to group RF Modules (including base stations).
 
@@ -53,9 +54,6 @@ In above examples we changed the Device ID over the air, but you could also use 
 
 You can view the video tutorial here (maximize screen to be able to read the text):
 
----
-youtubeId: eZpDi8QuWDk
----
 {% include youtubePlayer.html id=page.youtubeId  %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZpDi8QuWDk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
